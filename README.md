@@ -1,4 +1,4 @@
-# Hi, I'm AbdulrahmanGODA 👋
+# Hi, I'm GODA 👋
 
 I'm a passionate software developer specializing in low-level programming, operating systems, and computer architecture. I enjoy diving deep into how systems work and building experimental projects that push the limits of my technical skills.
 
