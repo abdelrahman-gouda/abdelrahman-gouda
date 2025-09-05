@@ -15,8 +15,8 @@ I'm passionate about robotics, embedded systems, and open-source. I enjoy buildi
  
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abdulrahman-goda-899700233/))
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailtoabdulrahmangoda@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abdulrahman-goda-899700233/)
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:abdulrahmangoda@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdulrahmanGODA&style=flat-square) 
 
 ---
