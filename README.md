@@ -11,7 +11,7 @@ I'm passionate about robotics, embedded systems, and open-source. I enjoy buildi
 ## 🚀 Featured Projects
 
 - [Outdoor Autonomous Delivery Robot](https://github.com/AbdulrahmanGoda/Outdoor-Autonomous-Delivery-Robot): Robot for last-mile delivery.
-- [Kernel from Scratch](https://github.com/AbdulrahmanGoda/Kernel-from-scratch): Learn the Linux kernel, step by step.
+- [Kernel from Scratch](https://github.com/AbdulrahmanGoda/Kernel-from-scratch): Linux Development, step by step.
  
 ## 📫 Connect
 
