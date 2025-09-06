@@ -1,4 +1,4 @@
-# Welcome to my github
+# Hi there I'm GODA! 👋
 
 
 <p align="=left"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
