@@ -23,7 +23,8 @@ Graduation project: an outdoor autonomous delivery robot integrating navigation,
 
 
 ### [Kernel-from-scratch](https://github.com/AbdulrahmanGoda/Kernel-from-scratch)
-![C](https://img.shields.io/badge/language-C-blue?logo=c)
+![C](https://img.shields.io/badge/language-C-blue?logo=c) ![Assembly](https://img.shields.io/badge/Assembly-Low%20Level-darkblue)
+
 <br>
 A hands-on journey into building an OS kernel from scratch in C, exploring bootloaders, memory management, and hardware interaction.
 
