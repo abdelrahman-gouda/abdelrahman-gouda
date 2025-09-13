@@ -23,10 +23,8 @@ This Repository documents the code and design for an outdoor autonomous delivery
 
 ### [Kernel-from-scratch](https://github.com/AbdulrahmanGoda/Kernel-from-scratch)
 ![C](https://img.shields.io/badge/language-C-blue?logo=c) ![Assembly](https://img.shields.io/badge/Assembly-Low%20Level-darkblue)
-
 <br>
-A hands-on journey into building an OS kernel from scratch in C, exploring bootloaders, memory management, and hardware interaction.
-
+I believe in learning by doing, so to sharpen my C programming skills and deepen my understanding of low-level operations—such as bootloaders, memory management, and hardware interaction—I decided to embark on this kernel-from-scratch journey.
  
 ## 📫 Connect
 
