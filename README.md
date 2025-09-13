@@ -18,8 +18,7 @@
  ![ROS](https://img.shields.io/badge/ROS-robotics-brightgreen?logo=ros) ![C++](https://img.shields.io/badge/C%2B%2B-rclcpp-blue?logo=cplusplus)
  ![Python](https://img.shields.io/badge/Python-Python-yellow?logo=rospy)
 <br>
-Graduation project: an outdoor autonomous delivery robot integrating navigation, perception, and real-world control.
-
+This Repository documents the code and design for an outdoor autonomous delivery robot, built for my graduation project. It covers overall system architecture, design choices, and integration of ROS 2, micro-ROS, sensor fusion, and custom hardware. The repo is intended for advanced users building similar systems.
 
 
 ### [Kernel-from-scratch](https://github.com/AbdulrahmanGoda/Kernel-from-scratch)
