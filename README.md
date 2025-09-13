@@ -7,15 +7,7 @@
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdulrahmanGODA&layout=compact&langs_count=8&theme=nightowl)
 
- 
 
-## 🚀 Notable Projects
-
-
-
-### [Outdoor-Autonomous-Delivery-Robot](https://github.com/AbdulrahmanGoda/Outdoor-Autonomous-Delivery-Robot)
-
-### [Kernel-from-scratch](https://github.com/AbdulrahmanGoda/Kernel-from-scratch)
 
 ## 📫 Connect
 
