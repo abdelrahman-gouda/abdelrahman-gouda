@@ -14,18 +14,9 @@
 
 
 ### [Outdoor-Autonomous-Delivery-Robot](https://github.com/AbdulrahmanGoda/Outdoor-Autonomous-Delivery-Robot)
-![MATLAB](https://img.shields.io/badge/MATLAB-robotics-blue?logo=mathworks) ![Simulink](https://img.shields.io/badge/Simulink-models-red?logo=simulink)
- ![ROS](https://img.shields.io/badge/ROS-robotics-brightgreen?logo=ros) ![C++](https://img.shields.io/badge/C%2B%2B-rclcpp-blue?logo=cplusplus)
- ![Python](https://img.shields.io/badge/Python-Python-yellow?logo=rospy)
-<br>
-This Repository documents the code and design for an outdoor autonomous delivery robot, built for my graduation project. It covers overall system architecture, design choices, and integration of ROS 2, micro-ROS, sensor fusion, and custom hardware. The repo is intended for advanced users building similar systems.
-
 
 ### [Kernel-from-scratch](https://github.com/AbdulrahmanGoda/Kernel-from-scratch)
-![C](https://img.shields.io/badge/language-C-blue?logo=c) ![Assembly](https://img.shields.io/badge/Assembly-Low%20Level-darkblue)
-<br>
-I believe in learning by doing, so to sharpen my C programming skills and deepen my understanding of low-level operations—such as bootloaders, memory management, and hardware interaction—I decided to embark on this kernel-from-scratch journey.
- 
+
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/abdulrahman-goda-899700233/)
