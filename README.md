@@ -9,10 +9,24 @@
 
  
 
-## 🚀 Featured Projects
+## 🚀 Notable Projects
 
-- [Outdoor Autonomous Delivery Robot](https://github.com/AbdulrahmanGoda/Outdoor-Autonomous-Delivery-Robot): Robot for last-mile delivery.
-- [Kernel from Scratch](https://github.com/AbdulrahmanGoda/Kernel-from-scratch): Linux Development, step by step.
+
+
+### [Outdoor-Autonomous-Delivery-Robot](https://github.com/AbdulrahmanGoda/Outdoor-Autonomous-Delivery-Robot)
+![MATLAB](https://img.shields.io/badge/MATLAB-robotics-blue?logo=mathworks) ![Simulink](https://img.shields.io/badge/Simulink-models-red?logo=simulink)
+ ![ROS](https://img.shields.io/badge/ROS-robotics-brightgreen?logo=ros) ![C++](https://img.shields.io/badge/C%2B%2B-rclcpp-blue?logo=cplusplus)
+ ![Python](https://img.shields.io/badge/Python-Python-yellow?logo=rospy)
+<br>
+Graduation project: an outdoor autonomous delivery robot integrating navigation, perception, and real-world control.
+
+
+
+### [Kernel-from-scratch](https://github.com/AbdulrahmanGoda/Kernel-from-scratch)
+![C](https://img.shields.io/badge/language-C-blue?logo=c)
+<br>
+A hands-on journey into building an OS kernel from scratch in C, exploring bootloaders, memory management, and hardware interaction.
+
  
 ## 📫 Connect
 
