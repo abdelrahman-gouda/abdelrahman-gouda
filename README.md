@@ -1,4 +1,4 @@
-# Hi there I'm GODA! 👋
+# Hi there I'm GOUDA! 👋
 
 
 <p align="=left"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
